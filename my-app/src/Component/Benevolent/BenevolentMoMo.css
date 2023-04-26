@@ -1,0 +1,30 @@
+
+.card-ct-head img{
+    height: 30px;
+    width: 30px;
+
+}
+.card-ct-head, .card-ct-bot{
+    font-size: 14px;
+}
+.card-ct-bot span{
+    width: 40px;
+}
+.btn-date{
+    padding: 0px 10px;
+    border-radius: 10px;
+    border: none;
+    color: #FDB57E;
+}
+.btn-donate{
+    border: 2px solid #E47EB6;
+    font-size: 12px;
+    border-radius: 7px;
+    color: #E47EB6;
+}
+.footer-card{
+    color: #E47EB6;}
+
+.card-title:hover{
+    color: #E47EB6;
+}

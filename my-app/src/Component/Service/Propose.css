@@ -1,0 +1,46 @@
+.content-propose{
+    background-color: white;
+}
+.menu-btn{
+    margin-top: 10px;
+}
+.btn-option{
+    border-radius: 20px;
+    padding: 5px 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+.btn-option img {
+    width: 20px;
+    height: 20px;
+}
+.card-propose{
+    max-width: 100%;
+    background-color: #FFF0F6;
+    border-radius: 10px;
+}
+.propose-img img{
+    /* width: 556px;
+    height: 312px; */
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.card-title{
+    font-weight: 600;
+}
+.card-list{
+    padding: 5px;
+    margin-top: 5px;
+}
+.BH{
+    margin: 10px;
+    max-width: 70px;
+}
+.BH img{
+    height: 40px;
+    width: 40px;
+}

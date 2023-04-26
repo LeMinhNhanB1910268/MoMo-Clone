@@ -1,0 +1,18 @@
+.card-info{
+    min-height: 300px;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.card-info:hover{
+    color: #E47EB6;
+}
+
+.card-info span{
+    color: #E47EB6;
+    font-weight: 600;
+    margin-right: 10px;
+}
+.data{
+    color: black !important;
+}
